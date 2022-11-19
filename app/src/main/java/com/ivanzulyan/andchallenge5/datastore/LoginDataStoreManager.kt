@@ -44,7 +44,7 @@ class LoginDataStoreManager(private val context: Context) {
                 preferences[PASSWORD_KEY] ?: "",
                 preferences[AGE_KEY] ?: "",
                 preferences[ADDRESS_KEY] ?: ""
-                )
+            )
         }
     }
 

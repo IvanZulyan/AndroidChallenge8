@@ -1,14 +1,12 @@
 package com.ivanzulyan.andchallenge5.viewmodel
 
-import android.util.Log
+
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import com.ivanzulyan.andchallenge5.model.DataUser
 import com.ivanzulyan.andchallenge5.model.ResponseUserItem
 import com.ivanzulyan.andchallenge5.network.RestfulUser
-import com.ivanzulyan.andchallenge5.network.RetrofitUser
 import dagger.hilt.android.lifecycle.HiltViewModel
-
 import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response

@@ -3,10 +3,22 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Acer/Desktop/AndChallenge5-ivan/AndChallenge5-ivan/app/src/basicapp/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/Acer/Desktop/AndChallenge5-ivan/AndChallenge5-ivan/app/src/basicapp/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Acer/Desktop/AndChallenge5-ivan/AndChallenge5-ivan/app/src/basicapp/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/Users/Acer/Desktop/AndChallenge5-ivan/AndChallenge5-ivan/app/src/basicapp/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/Users/Acer/Desktop/AndChallenge5-ivan/AndChallenge5-ivan/app/src/basicapp/res/layout/fragment_detail_movie.xml" value="0.25" />
+        <entry key="..\:/Users/Acer/Desktop/AndChallenge5-ivan/AndChallenge5-ivan/app/src/basicapp/res/layout/fragment_favorite.xml" value="0.25" />
+        <entry key="..\:/Users/Acer/Desktop/AndChallenge5-ivan/AndChallenge5-ivan/app/src/basicapp/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Users/Acer/Desktop/AndChallenge5-ivan/AndChallenge5-ivan/app/src/basicapp/res/layout/fragment_profile.xml" value="0.25" />
+        <entry key="..\:/Users/Acer/Desktop/AndChallenge5-ivan/AndChallenge5-ivan/app/src/basicapp/res/layout/item_favorite.xml" value="0.25" />
+        <entry key="..\:/Users/Acer/Desktop/AndChallenge5-ivan/AndChallenge5-ivan/app/src/basicapp/res/layout/item_movie.xml" value="0.25" />
         <entry key="..\:/Users/Acer/Desktop/AndChallenge5-ivan/AndChallenge5-ivan/app/src/main/res/drawable/backgrounds.xml" value="0.117" />
+        <entry key="..\:/Users/Acer/Desktop/AndChallenge5-ivan/AndChallenge5-ivan/app/src/main/res/drawable/bg_button.xml" value="0.129" />
         <entry key="..\:/Users/Acer/Desktop/AndChallenge5-ivan/AndChallenge5-ivan/app/src/main/res/drawable/bot_nav_bg.xml" value="0.117" />
         <entry key="..\:/Users/Acer/Desktop/AndChallenge5-ivan/AndChallenge5-ivan/app/src/main/res/drawable/change_loc.xml" value="0.117" />
         <entry key="..\:/Users/Acer/Desktop/AndChallenge5-ivan/AndChallenge5-ivan/app/src/main/res/drawable/favorite_toggle.xml" value="0.115" />
+        <entry key="..\:/Users/Acer/Desktop/AndChallenge5-ivan/AndChallenge5-ivan/app/src/main/res/drawable/google_button.xml" value="0.129" />
         <entry key="..\:/Users/Acer/Desktop/AndChallenge5-ivan/AndChallenge5-ivan/app/src/main/res/drawable/gradient_bg.xml" value="0.117" />
         <entry key="..\:/Users/Acer/Desktop/AndChallenge5-ivan/AndChallenge5-ivan/app/src/main/res/drawable/ic_account.xml" value="0.115" />
         <entry key="..\:/Users/Acer/Desktop/AndChallenge5-ivan/AndChallenge5-ivan/app/src/main/res/drawable/ic_favorite_grey_24.xml" value="0.117" />
@@ -19,12 +31,14 @@
         <entry key="..\:/Users/Acer/Desktop/AndChallenge5-ivan/AndChallenge5-ivan/app/src/main/res/layout/activity_main.xml" value="0.22916666666666666" />
         <entry key="..\:/Users/Acer/Desktop/AndChallenge5-ivan/AndChallenge5-ivan/app/src/main/res/layout/activity_register.xml" value="0.22916666666666666" />
         <entry key="..\:/Users/Acer/Desktop/AndChallenge5-ivan/AndChallenge5-ivan/app/src/main/res/layout/activity_splash.xml" value="0.22916666666666666" />
-        <entry key="..\:/Users/Acer/Desktop/AndChallenge5-ivan/AndChallenge5-ivan/app/src/main/res/layout/fragment_detail_movie.xml" value="0.536" />
+        <entry key="..\:/Users/Acer/Desktop/AndChallenge5-ivan/AndChallenge5-ivan/app/src/main/res/layout/fragment_detail_movie.xml" value="0.152" />
         <entry key="..\:/Users/Acer/Desktop/AndChallenge5-ivan/AndChallenge5-ivan/app/src/main/res/layout/fragment_favorite.xml" value="0.2" />
-        <entry key="..\:/Users/Acer/Desktop/AndChallenge5-ivan/AndChallenge5-ivan/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/Users/Acer/Desktop/AndChallenge5-ivan/AndChallenge5-ivan/app/src/main/res/layout/fragment_home.xml" value="0.16799999999999998" />
         <entry key="..\:/Users/Acer/Desktop/AndChallenge5-ivan/AndChallenge5-ivan/app/src/main/res/layout/fragment_profile.xml" value="0.2223731884057971" />
         <entry key="..\:/Users/Acer/Desktop/AndChallenge5-ivan/AndChallenge5-ivan/app/src/main/res/layout/item_favorite.xml" value="0.22916666666666666" />
         <entry key="..\:/Users/Acer/Desktop/AndChallenge5-ivan/AndChallenge5-ivan/app/src/main/res/layout/item_movie.xml" value="0.22916666666666666" />
+        <entry key="..\:/Users/Acer/Desktop/AndChallenge5-ivan/AndChallenge5-ivan/app/src/premiumapp/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/Acer/Desktop/AndChallenge5-ivan/AndChallenge5-ivan/app/src/premiumapp/res/layout/activity_register.xml" value="0.12158054711246201" />
       </map>
     </option>
   </component>
