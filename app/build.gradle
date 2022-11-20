@@ -10,6 +10,14 @@ plugins {
 }
 
 android {
+    signingConfigs {
+        release {
+            storeFile file('C:\\Users\\Acer\\Documents\\StudyAndroid\\challenge8.jks')
+            storePassword 'bismillah'
+            keyAlias 'key0'
+            keyPassword 'bismillah'
+        }
+    }
     compileSdk 32
 
     defaultConfig {
@@ -38,6 +46,7 @@ android {
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.release
         }
     }
     compileOptions {
